@@ -1,25 +1,10 @@
-# Папки сборки
 build/
-CMakeFiles/
+_deps/
+docs/
 CMakeCache.txt
+CMakeFiles/
 cmake_install.cmake
 Makefile
-
-# Зависимости Google Test
-_deps/
-
-# IDE
-.vscode/
-.vs/
-*.swp
-*.swo
-
-# Документация (генерируется автоматически)
-docs/
-
-# Временные файлы
 *.o
 *.so
 *.a
-*.exe
-
