@@ -1,0 +1,25 @@
+# Папки сборки
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Зависимости Google Test
+_deps/
+
+# IDE
+.vscode/
+.vs/
+*.swp
+*.swo
+
+# Документация (генерируется автоматически)
+docs/
+
+# Временные файлы
+*.o
+*.so
+*.a
+*.exe
+
